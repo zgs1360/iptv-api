@@ -15,4 +15,8 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-http://aktv.top/live.txt
+http://aktv.top/live.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/refs/heads/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/IPV6.m3u
