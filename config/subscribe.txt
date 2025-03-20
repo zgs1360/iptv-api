@@ -22,3 +22,5 @@ https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/refs/heads/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/IPTV.m3u
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/IPV6.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
